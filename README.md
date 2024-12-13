@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/EbreoShielaMay/my/blob/main/image.png" alt="Logo" width="300"/>
+<img src="https://github.com/EbreoShielaMay/my/blob/main/image.png" alt="Logo" width="400"/>
 </div>
 
 # D'Bookstore :cherry_blossom: :book: :sparkles:
