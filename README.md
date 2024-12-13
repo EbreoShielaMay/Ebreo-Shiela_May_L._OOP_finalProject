@@ -17,6 +17,8 @@ D'Bookstore is a digital bookstore management system designed to streamline book
 
 This project aims to provide a user-friendly interface for book enthusiasts while integrating sustainable practices aligned with the Sustainable Development Goals (SDGs).
 
+---
+
 ## OOP Principles application
 This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
