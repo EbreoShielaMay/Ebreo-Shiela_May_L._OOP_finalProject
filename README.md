@@ -190,10 +190,13 @@ java Main
 
 :paperclip: Input validation ensures user-friendly interactions; errors or invalid entries prompt retries.
 
+---
+##Programs Outputs 
+
 <div align="center">
   <a href="https://github.com/EbreoShielaMay/just-repo/tree/main/project%20outputs" target="_blank" style="text-decoration:none;">
     <button style="background-color:#007BFF; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
-      Open Folder
+      D'Bookstore Outputs
     </button>
   </a>
 </div>
