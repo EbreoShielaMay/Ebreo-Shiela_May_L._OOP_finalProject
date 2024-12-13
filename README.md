@@ -112,14 +112,28 @@ public static class eBook extends Book {}
 ### Abstraction :atm: 
 * The Display class abstracts the user interface, keeping UI-related logic separate from the core business logic.
 * The BookCategory class abstracts the management of books, hiding the complexity of book organization.
+* The Book class is abstract, and it defines the abstract method purchase(User user) to be implemented differently in subclasses.
+* PhysicalBook and eBook implement the purchase method based on their specific needs, abstracting the common behavior defined in Book.
+```java
+public abstract class Book
+```
+### Polymorphism :butterfly: 
+* The Purchasable interface defines a purchase method implemented differently by various classes, allowing a unified handling of purchasable items.
+* PhysicalBook and eBook override the purchase(User user) method from the Book class to provide specific implementations(method overriding).
+* toString() method in the PhysicalBook subclass is overriden to display information in a human-readable format.
+  
 ```java
 public interface Purchasable {
     void purchase(User user);
 }
 ```
-### Polymorphism :butterfly: 
-* The Purchasable interface defines a purchase method implemented differently by various classes, allowing a unified handling of purchasable items.
+```java
+@Override
+public void purchase(User user)
 
+@Override
+public String toString() {return super.toString() + " (Stock: " + stock + ")";}
+```
 ---
 
 ## Chosen SDG and its Integration :ballot_box_with_check:
