@@ -24,7 +24,7 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
 
 ### Encapsulation :pill:
 * Each class (Book, BookCategory, User) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
-* Access to class attributes is restricted via private modifiers, with getters and setters providing controlled access.
+* Access to class attributes is restricted via private modifiers, with getters and constructors providing controlled access.
 
 * Book.java 
   ```java
@@ -98,7 +98,12 @@ private String address;
 ```
 ### Inheritance :family:
 * The Book class is extended into two specialized classes: PhysicalBook and eBook, enabling reuse of common attributes while adding specific features.
-  
+```java
+public static class PhysicalBook extends Book {}
+```
+```java
+public static class eBook extends Book {}
+  ```
 ### Abstraction :atm:
 * The Display class abstracts the user interface, keeping UI-related logic separate from the core business logic.
 * The BookCategory class abstracts the management of books, hiding the complexity of book organization.
