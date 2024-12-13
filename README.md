@@ -105,10 +105,14 @@ private String address;
 
 * At the Book.java 
 ```java
-public static class PhysicalBook extends Book {}
+public static class PhysicalBook extends Book {
+//processes inside PhysicalBook subclass
+}
 ```
 ```java
-public static class eBook extends Book {}
+public static class eBook extends Book {
+//processes inside eBook subclass
+}
   ```
 ### Abstraction :atm: 
 * The Display class abstracts the user interface, keeping UI-related logic separate from the core business logic.
