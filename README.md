@@ -119,6 +119,12 @@ public static class eBook extends Book {
 * The BookCategory class abstracts the management of books, hiding the complexity of book organization.
 * The Book class is abstract, and it defines the abstract method purchase(User user) to be implemented differently in subclasses.
 * PhysicalBook and eBook implement the purchase method based on their specific needs, abstracting the common behavior defined in Book.
+* Purchasable interface abstracts the implementation of purchase(User user) method.
+```java
+public interface Purchasable {
+    void purchase(User user);
+}
+```
 ```java
 public abstract class Book
 ```
@@ -128,15 +134,9 @@ public void purchase(User user){
 //implementation will depend on the subclass }
 ```
 ### Polymorphism :butterfly: 
-* The Purchasable interface defines a purchase method implemented differently by various classes, allowing a unified handling of purchasable items.
 * PhysicalBook and eBook override the purchase(User user) method from the Book class to provide specific implementations(method overriding).
 * toString() method in the PhysicalBook subclass is overriden for readability.
   
-```java
-public interface Purchasable {
-    void purchase(User user);
-}
-```
 ```java
 @Override
 public void purchase(User user){
