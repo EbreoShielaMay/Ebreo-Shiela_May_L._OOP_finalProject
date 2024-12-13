@@ -117,6 +117,11 @@ public static class eBook extends Book {}
 ```java
 public abstract class Book
 ```
+```java
+@Override
+public void purchase(User user){
+//implementation will depend on the subclass }
+```
 ### Polymorphism :butterfly: 
 * The Purchasable interface defines a purchase method implemented differently by various classes, allowing a unified handling of purchasable items.
 * PhysicalBook and eBook override the purchase(User user) method from the Book class to provide specific implementations(method overriding).
@@ -129,10 +134,13 @@ public interface Purchasable {
 ```
 ```java
 @Override
-public void purchase(User user)
+public void purchase(User user){
+//implementation will depend on the subclass }
 
 @Override
-public String toString() {return super.toString() + " (Stock: " + stock + ")";}
+public String toString() {
+return super.toString() + " (Stock: " + stock + ")";
+}
 ```
 ---
 
