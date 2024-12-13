@@ -26,7 +26,7 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
 * Each class (User, BookCategory, Display) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
 * Access to class attributes is restricted via private modifiers, with getters and setters providing controlled access.
   
-### Imheritance :family:
+### Inheritance :family:
 * The Book class is extended into two specialized classes: PhysicalBook and eBook, enabling reuse of common attributes while adding specific features.
   
 ### Abstraction :atm:
