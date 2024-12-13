@@ -191,7 +191,7 @@ java Main
 :paperclip: Input validation ensures user-friendly interactions; errors or invalid entries prompt retries.
 
 ---
-##Programs Outputs 
+## Programs Outputs 
 
 <div align="center">
   <a href="https://github.com/EbreoShielaMay/just-repo/tree/main/project%20outputs" target="_blank" style="text-decoration:none;">
@@ -202,6 +202,7 @@ java Main
 </div>
 
 
+---
 
 <div align="center">
 <img src="https://github.com/EbreoShielaMay/just-repo/blob/main/cattyping.gif" alt="cat_typing_cutely" />
