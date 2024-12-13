@@ -22,6 +22,8 @@ This project aims to provide a user-friendly interface for book enthusiasts whil
 ## OOP Principles application :computer:
 This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
+--
+
 ### Encapsulation :pill:
 * Each class (Book, BookCategory, User) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
 * Access to class attributes is restricted via private modifiers, with getters and constructors providing controlled access.
