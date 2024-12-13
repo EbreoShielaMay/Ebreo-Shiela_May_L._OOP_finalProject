@@ -7,19 +7,19 @@
 
 D'Bookstore is a digital bookstore management system designed to streamline book purchases and enhance the shopping experience. The system allows users to:
 
-* :information_desk_person: Browse book categories, including physical books and eBooks.
+* :bookmark_tabs: Browse book categories, including physical books and eBooks.
 
-* Add books to a cart or purchase directly.
+* :shopping_cart: Add books to a cart or purchase directly.
 
-* Manage their wallet balance for seamless transactions.
+* :money_bag: Manage their wallet balance for seamless transactions.
 
-* View detailed purchase receipts for clarity and record-keeping.
+* :receipt: View detailed purchase receipts for clarity and record-keeping.
 
 This project aims to provide a user-friendly interface for book enthusiasts while integrating sustainable practices aligned with the Sustainable Development Goals (SDGs).
 
 ---
 
-## OOP Principles application
+## OOP Principles application :sparkles: 
 This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
 ### Encapsulation 
