@@ -25,6 +25,9 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
 ### Encapsulation :pill: 
 * Each class (Book, BookCategory, User) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
 * Access to class attributes is restricted via private modifiers, with getters and constructors providing controlled access.
+* Encapsulation of logic within methods:
+Methods like addToCart(), purchaseFromCart(), buyBookDirectly() in User encapsulate complex operations on user data.
+BookCategory methods (hasPhysicalBooks(), listBooks()) encapsulate checks and operations on books.
 
 * Book.java 
   ```java
