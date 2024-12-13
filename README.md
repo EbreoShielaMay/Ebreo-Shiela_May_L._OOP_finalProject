@@ -1,4 +1,4 @@
-<img src="https://github.com/EbreoShielaMay/my/blob/main/D%E2%80%99Bookstore.png" alt="Logo" width="100"/>
+<img src="https://github.com/EbreoShielaMay/my/blob/main/D%E2%80%99Bookstore.png" alt="Logo" width="500"/>
 
 # D'Bookstore :cherry_blossom: :book: :sparkles:
 
