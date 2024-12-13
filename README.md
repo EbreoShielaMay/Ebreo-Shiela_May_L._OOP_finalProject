@@ -38,7 +38,7 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
 
 ---
 
-## Chosen SDC and its Integration :ballot_box_with_check:
+## Chosen SDG and its Integration :ballot_box_with_check:
 
 ### SDG 4: Quality Education :pencil:
 :white_check_mark: Books are sources of knowledge so an accessible digital bookstore facilitates easy access to educational resources and books, encouraging informed and sustainable consumption habits.
