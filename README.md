@@ -29,6 +29,7 @@ This project aims to provide a user-friendly interface for book enthusiasts whil
 Methods like addToCart(), purchaseFromCart(), buyBookDirectly() in User encapsulate complex operations on user data.
 BookCategory methods (hasPhysicalBooks(), listBooks()) encapsulate checks and operations on books.
 
+
 * Book.java 
 ```java
 private String title;
@@ -48,7 +49,7 @@ public double getPrice() {
   return price;
 }
   ```
-* BookCategory.java
+* BookCategory.java 
  ```java
 private String categoryName;
 private Book[] books;
@@ -67,7 +68,7 @@ public BookCategory(String categoryName, Book[] books) {
         return books;
     }
 ```
-* User.java
+* User.java 
 ```java
 private String username;
 private String password;
@@ -102,7 +103,7 @@ private String address;
 ### Inheritance :family:  
 * The Book class is extended into two specialized classes: PhysicalBook and eBook, enabling reuse of common attributes while adding specific features.
 
-* At the Book.java
+* At the Book.java 
 ```java
 public static class PhysicalBook extends Book {}
 ```
