@@ -162,7 +162,7 @@ return super.toString() + " (Stock: " + stock + ")";
 
 2. A terminal or IDE (e.g., IntelliJ IDEA, Eclipse) to run the Java program.
 
-### Steps to Run
+### :clipboard: Steps to Run
 
 1. Compile the Program:
 
