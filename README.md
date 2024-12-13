@@ -7,7 +7,7 @@
 
 D'Bookstore is a digital bookstore management system designed to streamline book purchases and enhance the shopping experience. The system allows users to:
 
-* :notebook_with_decorative_cover: Browse book categories, including physical books and eBooks.
+* :information_desk_person: Browse book categories, including physical books and eBooks.
 
 * Add books to a cart or purchase directly.
 
