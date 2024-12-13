@@ -5,7 +5,7 @@
 ---
 # D'Bookstore :cherry_blossom: :book: :sparkles:
 
-D'Bookstore is a digital bookstore management system designed to streamline book purchases and enhance the shopping experience. The system allows users to:
+:cat: D'Bookstore is a digital bookstore management system designed to streamline book purchases and enhance the shopping experience. The system allows users to:
 
 * :bookmark_tabs: Browse book categories, including physical books and eBooks.
 
@@ -20,7 +20,7 @@ This project aims to provide a user-friendly interface for book enthusiasts whil
 ---
 
 ## OOP Principles application :computer:
-This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
+:cat: This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
 ### Encapsulation :pill: 
 * Each class (Book, BookCategory, User) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
@@ -154,7 +154,7 @@ return super.toString() + " (Stock: " + stock + ")";
 
 ---
 
-## Executing program
+## Executing program :cat:
 ### Prerequisites
 
 1. Ensure you have Java Development Kit (JDK) installed on your system.
