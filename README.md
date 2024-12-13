@@ -1,6 +1,6 @@
 # Introducing to you... D'Bookstore! :cherry_blossom:
-----
-Simple overview of use/purpose.
+
+Intriducing to you D'Bookstore! :books: A java-based console application for booklovers out there. 
 
 ## Description
 
