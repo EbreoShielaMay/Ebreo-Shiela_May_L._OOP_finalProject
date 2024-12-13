@@ -23,13 +23,79 @@ This project aims to provide a user-friendly interface for book enthusiasts whil
 This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
 ### Encapsulation :pill:
-* Each class (User, BookCategory, Display) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
+* Each class (Book, BookCategory, User) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
 * Access to class attributes is restricted via private modifiers, with getters and setters providing controlled access.
+
+* Book.java 
   ```java
   private String title;
   private double price;
   ```
-  
+  ```java
+   public Book(String title, double price) {
+        this.title = title;
+        this.price = price;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+  ```
+*BookCategory.java
+ ```java
+private String categoryName;
+private Book[] books;
+```
+```java
+public BookCategory(String categoryName, Book[] books) {
+        this.categoryName = categoryName;
+        this.books = books;
+    }
+
+    public String getCategoryName() {
+        return categoryName;
+    }
+
+    public Book[] getBooks() {
+        return books;
+    }
+```
+* User.java
+```java
+private String username;
+private String password;
+private Wallet wallet = new Wallet();
+private Book[] cart = new Book[10];
+private int cartIndex = 0;
+private String address;
+```
+```java
+ public User(String username, String password, String address) {
+        this.username = username;
+        this.password = password;
+        this.address = address;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public Wallet getWallet() {
+        return wallet;
+    }
+```
 ### Inheritance :family:
 * The Book class is extended into two specialized classes: PhysicalBook and eBook, enabling reuse of common attributes while adding specific features.
   
