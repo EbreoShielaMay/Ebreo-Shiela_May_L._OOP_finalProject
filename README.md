@@ -190,3 +190,6 @@ java Main
 
 :paperclip: Input validation ensures user-friendly interactions; errors or invalid entries prompt retries.
 
+
+<img src="https://www.fanpop.com/clubs/chis-sweet-home-chis-new-address/images/37597964/title/chi-typing-on-computer-photo" alt="cat_typing_cutely" />
+
