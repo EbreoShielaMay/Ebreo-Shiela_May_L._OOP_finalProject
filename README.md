@@ -1,5 +1,5 @@
 # Introducing to you... D'Bookstore! :cherry_blossom:
-
+----
 Simple overview of use/purpose.
 
 ## Description
