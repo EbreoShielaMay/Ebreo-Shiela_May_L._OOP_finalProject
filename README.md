@@ -212,6 +212,6 @@ java Main
 <img src="https://github.com/EbreoShielaMay/just-repo/blob/main/cattyping.gif" alt="cat_typing_cutely" />
 </div>
 <div align="center">
-  Happy Learning and Reading! :smile_cat::book:
+  Happy Learning and Reading! :smile_cat::book::heart:
 </div>
 
