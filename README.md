@@ -45,7 +45,7 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
         return price;
     }
   ```
-*BookCategory.java
+* BookCategory.java
  ```java
 private String categoryName;
 private Book[] books;
@@ -98,6 +98,8 @@ private String address;
 ```
 ### Inheritance :family:  
 * The Book class is extended into two specialized classes: PhysicalBook and eBook, enabling reuse of common attributes while adding specific features.
+
+* At the Book.java
 ```java
 public static class PhysicalBook extends Book {}
 ```
