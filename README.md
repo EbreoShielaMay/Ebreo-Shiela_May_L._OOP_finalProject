@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/EbreoShielaMay/my/blob/main/image.png" alt="Logo" width="400"/>
+<img src="https://github.com/EbreoShielaMay/just-repo/blob/main/image.png" alt="Logo" width="400"/>
 </div>
 
 ---
