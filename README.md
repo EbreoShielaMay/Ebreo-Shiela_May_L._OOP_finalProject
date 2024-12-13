@@ -193,3 +193,7 @@ java Main
 <div align="center">
 <img src="https://github.com/EbreoShielaMay/just-repo/blob/main/cattyping.gif" alt="cat_typing_cutely" />
 </div>
+<div align="center">
+  Happy Coding! :smile_cat:
+</div>
+
