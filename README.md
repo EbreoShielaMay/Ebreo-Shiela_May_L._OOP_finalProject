@@ -6,9 +6,9 @@
 
 Intriducing to you D'Bookstore! :books: A java-based console application for booklovers out there. This system is designed to function like the popular online shopping platforms but for books!
 
-## Description
+## OOP Principles application
 
-An in-depth paragraph about your project and overview of use.
+
 
 ## Getting Started
 
