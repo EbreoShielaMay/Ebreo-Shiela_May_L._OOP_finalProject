@@ -11,7 +11,7 @@ D'Bookstore is a digital bookstore management system designed to streamline book
 
 * :shopping_cart: Add books to a cart or purchase directly.
 
-* :money_bag: Manage their wallet balance for seamless transactions.
+* :moneybag: Manage their wallet balance for seamless transactions.
 
 * :receipt: View detailed purchase receipts for clarity and record-keeping.
 
@@ -19,16 +19,16 @@ This project aims to provide a user-friendly interface for book enthusiasts whil
 
 ---
 
-## OOP Principles application :sparkles: 
+## OOP Principles application :computer:
 This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
-### Encapsulation 
+### Encapsulation :pill:
 *
-### Imheritance
+### Imheritance :family:
 *
-### Abstraction
+### Abstraction :atm:
 *
-### Polymorphism
+### Polymorphism :butterfly:
 *
 
 ## Getting Started
