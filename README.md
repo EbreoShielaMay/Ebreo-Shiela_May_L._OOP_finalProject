@@ -2,6 +2,7 @@
 <img src="https://github.com/EbreoShielaMay/my/blob/main/image.png" alt="Logo" width="400"/>
 </div>
 
+---
 # D'Bookstore :cherry_blossom: :book: :sparkles:
 
 Intriducing to you D'Bookstore! :books: A java-based console application for booklovers out there. This system is designed to function like the popular online shopping platforms but for books!
