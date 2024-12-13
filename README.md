@@ -1,4 +1,7 @@
-# Introducing to you... D'Bookstore! :cherry_blossom:
+# Introducing to you... D'Bookstore! :cherry_blossom: :book:
+
+![System Flow Diagram](https://via.placeholder.com/600x400.png?text=System+Flow+Diagram)
+
 
 Intriducing to you D'Bookstore! :books: A java-based console application for booklovers out there. 
 
