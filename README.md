@@ -28,11 +28,15 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
 * Access to class attributes is restricted via private modifiers, with getters and setters providing controlled access.
   
 ### Imheritance :family:
-*
+* The Book class is extended into two specialized classes: PhysicalBook and eBook, enabling reuse of common attributes while adding specific features.
+  
 ### Abstraction :atm:
-*
+* The Display class abstracts the user interface, keeping UI-related logic separate from the core business logic.
+
+* The BookCategory class abstracts the management of books, hiding the complexity of book organization.
+  
 ### Polymorphism :butterfly:
-*
+* The Purchasable interface defines a purchase method implemented differently by various classes, allowing a unified handling of purchasable items.
 
 ---
 
