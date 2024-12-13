@@ -48,11 +48,39 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
 
 ---
 
-### Executing program
+## Executing program
+### Prerequisites
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+1. Ensure you have Java Development Kit (JDK) installed on your system.
+
+2. A terminal or IDE (e.g., IntelliJ IDEA, Eclipse) to run the Java program.
+
+### Steps to Run
+
+1. Compile the Program:
+
+* Navigate to the project directory in your terminal.
+
+* Compile the program using the command:
+
+javac Main.java
+
+2. Run the Program:
+
+* Execute the compiled program:
+
+java Main
+
+3. Explore Features: :
+
+* Sign up or log in.
+
+* Browse book categories and add books to your cart or purchase directly.
+
+* View your wallet balance and manage transactions.
+
+### Notes :spiral_notepad: :white_check_mark:
+:paperclip: Follow on-screen instructions to navigate menus.
+
+:paperclip: Input validation ensures user-friendly interactions; errors or invalid entries prompt retries.
 
