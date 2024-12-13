@@ -1,4 +1,9 @@
-![DBookstore_logo](https://github.com/EbreoShielaMay/my/blob/main/D%E2%80%99Bookstore.png)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best](https://github.com/EbreoShielaMay/my/blob/main/D%E2%80%99Bookstore.png-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
 # D'Bookstore :cherry_blossom: :book: :sparkles:
 
