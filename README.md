@@ -1,4 +1,4 @@
-![System Flow Diagram](https://via.placeholder.com/600x400.png?text=System+Flow+Diagram)
+[!D'Bookstore logo](https://github.com/EbreoShielaMay/Ebreo-Shiela_May_L._OOP_finalProject/issues/1#issue-2737867849)
 
 # Introducing to you... D'Bookstore! :cherry_blossom: :book:
 
