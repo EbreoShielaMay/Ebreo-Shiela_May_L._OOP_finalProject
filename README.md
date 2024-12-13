@@ -125,7 +125,7 @@ public void purchase(User user){
 ### Polymorphism :butterfly: 
 * The Purchasable interface defines a purchase method implemented differently by various classes, allowing a unified handling of purchasable items.
 * PhysicalBook and eBook override the purchase(User user) method from the Book class to provide specific implementations(method overriding).
-* toString() method in the PhysicalBook subclass is overriden to display information in a human-readable format.
+* toString() method in the PhysicalBook subclass is overriden for readability.
   
 ```java
 public interface Purchasable {
