@@ -5,11 +5,29 @@
 ---
 # D'Bookstore :cherry_blossom: :book: :sparkles:
 
-Intriducing to you D'Bookstore! :books: A java-based console application for booklovers out there. This system is designed to function like the popular online shopping platforms but for books!
+D'Bookstore is a digital bookstore management system designed to streamline book purchases and enhance the shopping experience. The system allows users to:
+
+* Browse book categories, including physical books and eBooks.
+
+* Add books to a cart or purchase directly.
+
+* Manage their wallet balance for seamless transactions.
+
+* View detailed purchase receipts for clarity and record-keeping.
+
+This project aims to provide a user-friendly interface for book enthusiasts while integrating sustainable practices aligned with the Sustainable Development Goals (SDGs).
 
 ## OOP Principles application
+This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
-
+### Encapsulation 
+*
+### Imheritance
+*
+### Abstraction
+*
+### Polymorphism
+*
 
 ## Getting Started
 
