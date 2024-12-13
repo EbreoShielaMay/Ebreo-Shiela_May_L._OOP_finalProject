@@ -23,8 +23,7 @@ This project aims to provide a user-friendly interface for book enthusiasts whil
 This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
 ### Encapsulation :pill:
-* Each class (e.g., User, BookCategory, Display) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
-
+* Each class (User, BookCategory, Display) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
 * Access to class attributes is restricted via private modifiers, with getters and setters providing controlled access.
   
 ### Imheritance :family:
@@ -32,7 +31,6 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
   
 ### Abstraction :atm:
 * The Display class abstracts the user interface, keeping UI-related logic separate from the core business logic.
-
 * The BookCategory class abstracts the management of books, hiding the complexity of book organization.
   
 ### Polymorphism :butterfly:
@@ -40,7 +38,11 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
 
 ---
 
-## Getting Started
+## Chosen SDC and its Integration :ballot_box_with_check:
+
+### SDG 4: Quality Education
+
+### SDG 9:  Industry innovation and infrastracture
 
 ### Executing program
 
