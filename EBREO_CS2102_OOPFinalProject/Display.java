@@ -1,6 +1,7 @@
 public class Display {
     public void displayMainMenu() {
         System.out.println("");
+            System.out.println("\t\t\t        (=^-ω-^=)");
             System.out.println("\t\t\t=-=-=-=-===***===-=-=-=-=");
             System.out.println("\t\t\t WELCOME TO D'Bookstore! ");
             System.out.println("\t\t\t=-=-=-=-=-=-=-=-=-=-=-=-=");
