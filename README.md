@@ -168,15 +168,15 @@ return super.toString() + " (Stock: " + stock + ")";
 * Navigate to the project directory in your terminal.
 
 * Compile the program using the command:
-
+```java
 javac Main.java
-
+```
 2. Run the Program:
 
 * Execute the compiled program:
-
+```java
 java Main
-
+```
 3. Explore Features: :
 
 * Sign up or log in.
