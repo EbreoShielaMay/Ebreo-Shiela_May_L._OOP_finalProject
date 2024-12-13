@@ -191,6 +191,16 @@ java Main
 :paperclip: Input validation ensures user-friendly interactions; errors or invalid entries prompt retries.
 
 <div align="center">
+  <a href="https://github.com/EbreoShielaMay/just-repo/tree/main/project%20outputs" target="_blank" style="text-decoration:none;">
+    <button style="background-color:#007BFF; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
+      Open Folder
+    </button>
+  </a>
+</div>
+
+
+
+<div align="center">
 <img src="https://github.com/EbreoShielaMay/just-repo/blob/main/cattyping.gif" alt="cat_typing_cutely" />
 </div>
 <div align="center">
