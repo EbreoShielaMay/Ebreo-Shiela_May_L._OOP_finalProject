@@ -30,23 +30,23 @@ Methods like addToCart(), purchaseFromCart(), buyBookDirectly() in User encapsul
 BookCategory methods (hasPhysicalBooks(), listBooks()) encapsulate checks and operations on books.
 
 * Book.java 
-  ```java
-  private String title;
-  private double price;
-  ```
-  ```java
-   public Book(String title, double price) {
-        this.title = title;
-        this.price = price;
-    }
+```java
+private String title;
+private double price;
+```
+```java
+public Book(String title, double price) {
+  this.title = title;
+  this.price = price;
+}
 
-    public String getTitle() {
-        return title;
-    }
+public String getTitle() {
+  return title;
+}
 
-    public double getPrice() {
-        return price;
-    }
+public double getPrice() {
+  return price;
+}
   ```
 * BookCategory.java
  ```java
