@@ -23,7 +23,10 @@ This project aims to provide a user-friendly interface for book enthusiasts whil
 This project employs Object-Oriented Programming (OOP) principles to ensure modularity, scalability, and maintainability:
 
 ### Encapsulation :pill:
-*
+* Each class (e.g., User, BookCategory, Display) encapsulates its data and methods, ensuring that related functionalities are grouped logically.
+
+* Access to class attributes is restricted via private modifiers, with getters and setters providing controlled access.
+  
 ### Imheritance :family:
 *
 ### Abstraction :atm:
@@ -31,17 +34,9 @@ This project employs Object-Oriented Programming (OOP) principles to ensure modu
 ### Polymorphism :butterfly:
 *
 
+---
+
 ## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
