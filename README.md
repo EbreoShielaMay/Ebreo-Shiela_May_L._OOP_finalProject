@@ -181,7 +181,7 @@ javac Main.java
 ```java
 java Main
 ```
-3. Explore Features: :
+3. Explore Features: :mag:
 
 * Sign up or log in.
 
@@ -212,6 +212,6 @@ java Main
 <img src="https://github.com/EbreoShielaMay/just-repo/blob/main/cattyping.gif" alt="cat_typing_cutely" />
 </div>
 <div align="center">
-  Happy Learning and Reading! :smile_cat::book::heart:
+  Happy Learning meow! :smile_cat::book::heart:
 </div>
 
