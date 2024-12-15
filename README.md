@@ -5,7 +5,7 @@
 ---
 # D'Bookstore :cherry_blossom: :book: :sparkles:
 
-:cat: D'Bookstore is a digital bookstore management system designed to streamline book purchases and enhance the shopping experience. The system allows users to:
+:cat: D'Bookstore is a digital bookstore management system designed to streamline book purchases and enhance user's shopping experience. The system allows users to:
 
 * :bookmark_tabs: Browse book categories, including physical books and eBooks.
 
