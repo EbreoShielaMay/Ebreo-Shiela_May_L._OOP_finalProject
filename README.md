@@ -171,7 +171,7 @@ return super.toString() + " (Stock: " + stock + ")";
 
 * Navigate to the project directory in your terminal.
 
-* Compile the program using the command:
+* Compile the program using the command: :desktop_computer:
 ```java
 javac Main.java
 ```
@@ -195,7 +195,7 @@ java Main
 :paperclip: Input validation ensures user-friendly interactions; errors or invalid entries prompt retries.
 
 ---
-### Programs Outputs :cat::sparkles:
+### Program Outputs :cat::sparkles:
 
 <div align="center">
   <a href="https://github.com/EbreoShielaMay/just-repo/tree/main/project%20outputs" target="_blank" style="text-decoration:none;">
