@@ -195,7 +195,7 @@ java Main
 :paperclip: Input validation ensures user-friendly interactions; errors or invalid entries prompt retries.
 
 ---
-### Program Outputs :cat::sparkles:
+### Program Outputs :cat::sparkles::camera:
 
 <div align="center">
   <a href="https://github.com/EbreoShielaMay/just-repo/tree/main/project%20outputs" target="_blank" style="text-decoration:none;">
